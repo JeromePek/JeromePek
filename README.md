@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Welcome to my GitHub
+
+I am **Jerome Pek**, currently a _Sound Editor_ with Pinewood Group and learning to code in _Python_ with a specialisation in _Cyber Security_ to further my career in the form of content security.
+
+![JeromePek](https://github.com/JeromePek/JeromePek/blob/main/IMG_4094.jpg)
+
+Please reach out to me if you are looking for a Python Programmer.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/jerome-pek/) or email me at [pekjerome@gmail.com](mailto:pekjerome@gmail.com)
+
 <!--
 **JeromePek/JeromePek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
